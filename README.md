@@ -62,7 +62,7 @@ Pueden experimentar ambas sintaxis, y trabajar con la que más les guste. Pueden
 
 [Sobre el generador de código de Riverpod](https://docs-v2.riverpod.dev/docs/about_code_generation)
 
--odos los providers de Riverpod
+-Todos los providers de Riverpod
 Aquí les dejo el video de YouTube en mención con todos los providers de Riverpod
 
 [Riverpod - Todos los Providers y modificadores](https://www.youtube.com/watch?v=VOgzWmYQDzQ)
