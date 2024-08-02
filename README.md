@@ -58,6 +58,8 @@ Pueden experimentar ambas sintaxis, y trabajar con la que más les guste. Pueden
 
 [Sobre el generador de código de Riverpod](https://docs-v2.riverpod.dev/docs/about_code_generation)
 
+[New link - Sobre el generador de código de Riverpod](https://riverpod.dev/es/docs/concepts/about_code_generation)
+
 ## Todos los providers de Riverpod
 
 Aquí les dejo el video de YouTube en mención con todos los providers de Riverpod
